@@ -1,7 +1,7 @@
 ---
 title: "AWS Service Management and Serverless Computing"
 date: 2026-06-08
-weight: 1
+weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
 ---

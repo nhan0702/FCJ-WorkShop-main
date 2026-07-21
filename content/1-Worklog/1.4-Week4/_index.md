@@ -1,7 +1,7 @@
 ---
 title: "Amazon S3 Storage and AWS Cloud9 Development Environment"
 date: 2026-05-25
-weight: 1
+weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
 ---

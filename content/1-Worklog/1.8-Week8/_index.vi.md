@@ -1,7 +1,7 @@
 ---
 title: "Thiết kế hệ thống và Quản lý chi phí AWS"
 date: 2026-06-22
-weight: 1
+weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
 ---

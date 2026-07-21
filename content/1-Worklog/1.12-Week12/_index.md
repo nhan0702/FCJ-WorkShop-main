@@ -1,7 +1,7 @@
 ---
 title: "System Testing, Project Completion, and Internship Summary"
 date: 2026-07-20
-weight: 2
+weight: 12
 chapter: false
 pre: " <b> 1.12. </b> "
 ---

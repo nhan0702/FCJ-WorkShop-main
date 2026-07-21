@@ -1,7 +1,7 @@
 ---
 title: "Frontend Development and Application Security"
 date: 2026-07-06
-weight: 2
+weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
 ---

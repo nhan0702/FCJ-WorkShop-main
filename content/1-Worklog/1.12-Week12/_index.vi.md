@@ -1,7 +1,7 @@
 ---
 title: "Kiểm thử, Hoàn thiện dự án và Tổng kết thực tập"
 date: 2026-07-20
-weight: 2
+weight: 12
 chapter: false
 pre: " <b> 1.12 </b> "
 ---

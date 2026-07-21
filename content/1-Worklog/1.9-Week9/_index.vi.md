@@ -1,7 +1,7 @@
 ---
 title: "Phát triển Backend và Xây dựng API"
 date: 2026-06-29
-weight: 1
+weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
 ---

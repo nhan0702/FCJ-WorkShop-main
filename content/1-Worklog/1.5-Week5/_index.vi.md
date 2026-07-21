@@ -1,7 +1,7 @@
 ---
 title: "Triển khai cơ sở dữ liệu và phân phối nội dung trên AWS"
 date: 2026-06-01
-weight: 1
+weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Xây dựng hạ tầng mạng với Amazon VPC"
 date: 2026-05-11
-weight: 1
+weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
 ---

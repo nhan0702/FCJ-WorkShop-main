@@ -1,7 +1,7 @@
 ---
 title: "Triển khai, Hoàn thiện và Tối ưu hệ thống trên AWS"
 date: 2026-07-13
-weight: 2
+weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
